@@ -1,4 +1,4 @@
-# Hour Bucket
+# HourBucket
 
 The `hourbucket` Package offers utilities to easily convert Go's standard `time.Time` into hourly intervals. It represents each hour with a single `int64` value: the total number of hours passed since the Unix epoch (Jan 1, 1970 UTC).
 
