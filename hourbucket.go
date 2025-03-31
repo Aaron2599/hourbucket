@@ -1,4 +1,4 @@
-package hourbucket
+package test
 
 import (
 	"time"
